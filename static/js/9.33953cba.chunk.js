@@ -1,0 +1,2 @@
+(this.webpackJsonpipic=this.webpackJsonpipic||[]).push([[9],{336:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a);t.default=function(){return c.a.createElement(c.a.Fragment,null,c.a.createElement("h1",null,"About"))}}}]);
+//# sourceMappingURL=9.33953cba.chunk.js.map
